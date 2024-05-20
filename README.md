@@ -1,0 +1,2 @@
+# Spooky.lv
+My site.
